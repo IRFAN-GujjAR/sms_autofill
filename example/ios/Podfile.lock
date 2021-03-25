@@ -1,22 +1,23 @@
 PODS:
-  - Flutter (1.0.0)
+  - Flutter (2.0.0)
   - sms_autofill (0.0.1):
     - Flutter
 
 DEPENDENCIES:
-  - Flutter (from `.symlinks/flutter/ios`)
   - sms_autofill (from `.symlinks/plugins/sms_autofill/ios`)
 
+SPEC REPOS:
+  trunk:
+    - Flutter
+
 EXTERNAL SOURCES:
-  Flutter:
-    :path: ".symlinks/flutter/ios"
   sms_autofill:
     :path: ".symlinks/plugins/sms_autofill/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Flutter: 1c17b7bc8cd10f9f85f9dbc56caee3074756daad
   sms_autofill: c461043483362c3f1709ee76eaae6eb570b31686
 
 PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.10.1
